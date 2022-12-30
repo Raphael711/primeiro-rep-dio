@@ -1,0 +1,11 @@
+Olá a todos! 
+
+Como estão, espero que estejam bem.
+
+Este é o primeiro projeto pela DIO que estou fazendo, pelo curso Orange Tech + | Back-End.
+
+Este curso tem como objetivo nos ensinar o desenvolvimento Back-End com Java e Spring Boot.
+
+Esse projeto a princípio é somente para avisar a vocês que todo projeto que tenha estarei colocando no Github para aperfeiçoar o meu portfólio e mostrar a minha evolução.
+
+Obrigado a todos!
