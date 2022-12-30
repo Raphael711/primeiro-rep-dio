@@ -1,6 +1,6 @@
 Olá a todos! 
 
-Como estão, espero que estejam bem.
+Como estão? Espero que estejam bem.
 
 Este é o primeiro projeto pela DIO que estou fazendo, pelo curso Orange Tech + | Back-End.
 
